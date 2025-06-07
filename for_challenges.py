@@ -69,4 +69,4 @@ groups = [
 print("Задание №5")
 for num_group in range(len(groups)):
     print(f"Группа {num_group}: {', '.join(groups[num_group])} ")
-print()cd
+print()
